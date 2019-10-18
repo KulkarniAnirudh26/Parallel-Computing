@@ -8,4 +8,4 @@ The input and output files for Kmeans algorithm is as follows:
 Input - input.raw
 Output - output.raw
 
-These files can be visualized using ImageJ software
+These files can be visualized using ImageJ software (http://rsb.info.nih.gov/ij/download.html)
