@@ -3,5 +3,5 @@ Parallel Algorithms, written as a part of the EE451 Parallel and Distributed Com
 
 
 # Acknowledgment 
-Prof. Dr. Viktor K Prasanna
+Prof. Dr. Viktor K Prasanna ,
 Viterbi School of Engineering
